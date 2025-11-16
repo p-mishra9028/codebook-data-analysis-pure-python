@@ -127,14 +127,14 @@ sets, similarity scoring, dictionary iteration, filtering, ranking
 }
 
 
-📘 What I Learned
+#📘 What I Learned
 How to think algorithmically without relying on big libraries
 How to manually clean and validate real-world messy data
 How to design simple recommendation systems using logic + Python
 How to structure a project and maintain clean code
 How to work with nested JSON and build custom data pipelines
 
-📎 How to Run This Project
+#📎 How to Run This Project
 1. Clone the repository
 git clone <your-repo-link>
 
@@ -150,11 +150,11 @@ project_data_cleaning.ipynb
 People_you_may_know.ipynb
 pages_you_might_like.ipynb
 
-🤝 Contributing
+#🤝 Contributing
 
 If you'd like to suggest improvements or spot bugs, feel free to open an issue or create a pull request.
 
-📬 Contact
+#📬 Contact
 If you'd like to discuss this project or collaborate:
 
 GitHub: your-username
