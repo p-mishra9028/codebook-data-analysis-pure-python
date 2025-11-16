@@ -116,6 +116,7 @@ sets, similarity scoring, dictionary iteration, filtering, ranking
 ---
 
 #📘 What I Learned
+
 How to think algorithmically without relying on big libraries
 How to manually clean and validate real-world messy data
 How to design simple recommendation systems using logic + Python
@@ -148,4 +149,5 @@ If you'd like to suggest improvements or spot bugs, feel free to open an issue o
 If you'd like to discuss this project or collaborate:
 
 GitHub: your-username
+
 LinkedIn: your-link
