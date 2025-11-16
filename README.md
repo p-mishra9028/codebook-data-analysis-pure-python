@@ -39,6 +39,8 @@ file handling, loops, condition checking, dictionary access
 
 ---
 
+
+
 ## 2️⃣ **Cleaning & Structuring Data**
 File:  
 👉 `project_data_cleaning.ipynb`
@@ -113,20 +115,6 @@ sets, similarity scoring, dictionary iteration, filtering, ranking
 
 ---
 
-# 📊 Sample Outputs
-
-### ✔ Cleaned user structure example:
-```json
-{
-  "user_id": "U102",
-  "name": "Aditi",
-  "age": 21,
-  "connections": ["U101", "U108"],
-  "pages_liked": ["P03", "P06"],
-  "interests": ["python", "gaming", "web dev"]
-}
-
-
 #📘 What I Learned
 How to think algorithmically without relying on big libraries
 How to manually clean and validate real-world messy data
@@ -149,6 +137,8 @@ project.ipynb
 project_data_cleaning.ipynb
 People_you_may_know.ipynb
 pages_you_might_like.ipynb
+
+
 
 #🤝 Contributing
 
