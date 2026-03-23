@@ -35,7 +35,7 @@ Tasks completed:
 - Extracted useful fields into Python lists/dictionaries
 
 **Key Python Concepts Used:**  
-file handling, loops, condition checking, dictionary access
+file handling, loops, condition checking, dictionary access.
 
 ---
 
@@ -145,9 +145,4 @@ pages_you_might_like.ipynb
 
 If you'd like to suggest improvements or spot bugs, feel free to open an issue or create a pull request.
 
-#📬 Contact
-If you'd like to discuss this project or collaborate:
 
-GitHub: your-username
-
-LinkedIn: your-link
